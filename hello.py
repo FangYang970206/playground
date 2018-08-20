@@ -1,1 +1,5 @@
 print("hello everyone")
+print("hello yang")
+print("hello fang")
+print("hello FY")
+print("hello man")
